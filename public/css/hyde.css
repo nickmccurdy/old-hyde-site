@@ -257,6 +257,6 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-custom .content a,
 .theme-base-custom .related-posts li a:hover {
-  /* button orange */
-  color: #df691a;
+  /* button red */
+  color: #d2322d;
 }
