@@ -1,0 +1,11 @@
+/* Custom, with some colors borrowed from Superhero
+ * (http://bootswatch.com/superhero/) */
+.theme-base-custom .sidebar {
+  /* background blue */
+  background-color: #2b3e50;
+}
+.theme-base-custom .content a,
+.theme-base-custom .related-posts li a:hover {
+  /* button red */
+  color: #d2322d;
+}
