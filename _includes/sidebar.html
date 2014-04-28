@@ -6,7 +6,6 @@
 
     <ul class="sidebar-nav">
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <span class="fa fa-fw fa-home"></span>
         <a href="{{site.baseurl}}/">Home</a>
       </li>
 
@@ -20,7 +19,6 @@
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <span class="fa fa-fw fa-{{node.icon}}"></span>
               <a href="{{site.baseurl}}{{ node.url }}">{{ node.title }}</a>
             </li>
           {% endif %}

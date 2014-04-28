@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-icon: home
 ---
 
 # About Me
