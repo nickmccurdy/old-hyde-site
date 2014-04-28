@@ -8,16 +8,16 @@
 
 - name: Facebook
   url: https://www.facebook.com/thenickperson
-  icon: facebook
+  icon: facebook-square
 
 - name: Google+
   url: https://plus.google.com/+NicolasMcCurdy
-  icon: google-plus
+  icon: google-plus-square
 
 - name: Twitter
   url: https://twitter.com/nicolasmccurdy
-  icon: twitter
+  icon: twitter-square
 
 - name: GitHub
   url: https://github.com/nicolasmccurdy
-  icon: github
+  icon: github-square
