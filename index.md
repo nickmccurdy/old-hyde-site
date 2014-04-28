@@ -16,9 +16,9 @@ Rails](http://rubyonrails.org/), [Common Lisp](http://common-lisp.net/),
 front-end web development, [Arch Linux](https://www.archlinux.org/), and writing
 open source software on [GitHub](https://github.com/).
 
-# Links
+---
 
-<ul class="list-unstyled">
+<ul class="list-inline">
   {% for link in site.data.links %}
     <li>
       <span class="fa fa-fw fa-{{link.icon}}"></span>
