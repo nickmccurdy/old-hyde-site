@@ -9,3 +9,7 @@
   /* button orange */
   color: #df691a;
 }
+
+.sidebar-about h1 {
+  font-family: "Roboto", sans-serif;
+}
