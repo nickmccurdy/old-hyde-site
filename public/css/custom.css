@@ -14,10 +14,15 @@
   font-family: "Roboto", sans-serif;
 }
 
-/* Helpers borrowed from Bootstrap */
+/* Helpers, some borrowed from Bootstrap */
 
 /* Unstyled keeps list items block level, just removes default browser padding and list-style */
 .list-unstyled {
   padding-left: 0;
+  list-style: none;
+}
+
+/* Indented only removes list-style */
+.list-indented {
   list-style: none;
 }
