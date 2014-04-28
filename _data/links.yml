@@ -1,17 +1,23 @@
 - name: CV
   url: http://careers.stackoverflow.com/nicolasmccurdy
+  icon: suitcase
 
 - name: Email
   url: mailto:thenickperson@gmail.com
+  icon: envelope
 
 - name: Facebook
   url: https://www.facebook.com/thenickperson
+  icon: facebook
 
 - name: Google+
   url: https://plus.google.com/+NicolasMcCurdy
+  icon: google-plus
 
 - name: Twitter
   url: https://twitter.com/nicolasmccurdy
+  icon: twitter
 
 - name: GitHub
   url: https://github.com/nicolasmccurdy
+  icon: github

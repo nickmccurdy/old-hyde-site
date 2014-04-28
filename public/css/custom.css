@@ -13,3 +13,11 @@
 .sidebar-about h1 {
   font-family: "Roboto", sans-serif;
 }
+
+/* Helpers borrowed from Bootstrap */
+
+/* Unstyled keeps list items block level, just removes default browser padding and list-style */
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}

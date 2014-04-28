@@ -18,9 +18,10 @@ open source software on [GitHub](https://github.com/).
 
 # Links
 
-<ul>
+<ul class="list-unstyled">
   {% for link in site.data.links %}
     <li>
+      <span class="fa fa-fw fa-{{link.icon}}"></span>
       <a href="{{link.url}}" target="_blank">{{link.name}}</a>
     </li>
   {% endfor %}
