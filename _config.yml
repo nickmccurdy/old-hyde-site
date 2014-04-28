@@ -13,9 +13,9 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+#paginate:         5
 
 # Custom
 baseurl:          /hyde
-exclude:          ['Makefile']
+exclude:          ['Makefile', 'blog']
 paginate_path:    "blog/page:num"
