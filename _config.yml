@@ -14,3 +14,6 @@ author:
   url:            https://twitter.com/mdo
 
 paginate:         5
+
+# Custom
+paginate_path:    "blog/page:num"
