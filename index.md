@@ -3,28 +3,25 @@ layout: default
 title: Home
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# About Me
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi, I'm Nick. I am a 20 year old software engineering student at the [Rochester
+Institute of Technology](http://www.rit.edu/) and a member of the [Society of
+Software Engineers](http://sse.se.rit.edu/). I currently live on campus. My home
+town is Weehawken, New Jersey.
 
-There are currently two themes built on Poole:
+I love working with computers, and am passionate about making great software.
+Lately, I enjoy tinkering with [Ruby](https://www.ruby-lang.org/en/), [Ruby on
+Rails](http://rubyonrails.org/), [Common Lisp](http://common-lisp.net/),
+front-end web development, [Arch Linux](https://www.archlinux.org/), and writing
+open source software on [GitHub](https://github.com/).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+# Links
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<ul>
+  {% for link in site.data.links %}
+    <li>
+      <a href="{{link.url}}" target="_blank">{{link.name}}</a>
+    </li>
+  {% endfor %}
+</ul>
