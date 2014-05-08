@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Nicolas McCurdy
-url:              http://nicolasmccurdy.github.io/hyde/
+url:              http://nicolasmccurdy.github.io/
 
 author:
   name:           Nicolas McCurdy
@@ -16,6 +16,6 @@ author:
 #paginate:         5
 
 # Custom
-baseurl:          /hyde
+baseurl:          /
 exclude:          ['Makefile', 'blog']
 paginate_path:    "blog/page:num"
