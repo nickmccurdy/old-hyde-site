@@ -16,6 +16,6 @@ author:
 #paginate:         5
 
 # Custom
-baseurl:          /
+baseurl:
 exclude:          ['Makefile', 'blog']
 paginate_path:    "blog/page:num"
