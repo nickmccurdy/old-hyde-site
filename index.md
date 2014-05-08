@@ -21,8 +21,10 @@ open source software on [GitHub](https://github.com/).
 <ul class="list-inline">
   {% for link in site.data.links %}
     <li>
-      <span class="fa fa-fw fa-{{link.icon}}"></span>
-      <a href="{{link.url}}" target="_blank">{{link.name}}</a>
+      <a href="{{link.url}}" target="_blank">
+        <span class="fa fa-fw fa-{{link.icon}}"></span>
+        {{link.name}}
+      </a>
     </li>
   {% endfor %}
 </ul>
