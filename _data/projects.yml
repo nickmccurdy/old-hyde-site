@@ -25,18 +25,6 @@
     url: http://userstyles.org/styles/59527/powerfox-ui-improvements-for-firefox-power-users
     description: A simple collection of tweaks for Firefox that make it a little awesomer for power users, or just those who would like a little more out of their browser UI.
 
-- name: Config Files
-  id: config-files
-  projects:
-  - name: Dotfiles
-    url: https://github.com/nicolasmccurdy/dotfiles
-    description: My personal config files, themes, and scripts, which are compatible with homesick.
-    label: GitHub
-  - name: Sane Defaults
-    url: https://github.com/nicolasmccurdy/sane-defaults
-    description: Configs that make Linux/Unix programs safer, better, and more intuitive, the way they should be.
-    label: GitHub
-
 - name: Web Apps
   id: web-apps
   projects:
@@ -68,6 +56,14 @@
 - name: Miscellaneous
   id: miscellaneous
   projects:
+  - name: Dotfiles
+    url: https://github.com/nicolasmccurdy/dotfiles
+    description: My personal config files, themes, and scripts, which are compatible with homesick.
+    label: GitHub
+  - name: Sane Defaults
+    url: https://github.com/nicolasmccurdy/sane-defaults
+    description: Configs that make Linux/Unix programs safer, better, and more intuitive, the way they should be.
+    label: GitHub
   - name: Templates
     url: https://github.com/nicolasmccurdy/templates
     description: A small collection of simple templates for popular languages, frameworks, and tools.
