@@ -46,6 +46,14 @@
     url: /apps/collatz/index.html
     description: Calculute sets of integers using the Collatz Conjecture.
 
+- name: Websites
+  id: websites
+  projects:
+  - name: Ms. Ana Aguirre
+    url: http://msaguirre.zxq.net
+  - name: Dana McCurdy
+    url: http://danamccurdy.com
+
 - name: Miscellaneous
   id: miscellaneous
   projects:
