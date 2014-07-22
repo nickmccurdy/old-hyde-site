@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Skills
+published: true
 ---
 
 <!-- skills -->
@@ -49,8 +50,6 @@ technologies:
 
 ## Miscellaneous
 - Unix/Linux
-- Vim
-- Emacs
 - MongoDB (learning)
 - Photoshop CS5
 - Functional Programming
