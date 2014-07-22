@@ -7,7 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Nicolas McCurdy
-url:              http://nicolasmccurdy.github.io/
+url:              http://nicolasmccurdy.github.io
+baseurl:          /
 
 author:
   name:           Nicolas McCurdy
@@ -15,7 +16,10 @@ author:
 
 #paginate:         5
 
-# Custom
-baseurl:
+# Custom vars
+version:          2.1.0
 exclude:          ['Makefile', 'blog']
 paginate_path:    "blog/page:num"
+
+github:
+  repo:           https://github.com/nicolasmccurdy/nicolasmccurdy.github.io
