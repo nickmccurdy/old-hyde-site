@@ -25,7 +25,7 @@ technologies:
 - Bash/Zsh
 - Alloy
 
-# Frameworks & Libraries
+## Frameworks & Libraries
 - Rails
 - Sinatra
 - Jekyll
