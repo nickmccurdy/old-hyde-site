@@ -22,11 +22,6 @@ technologies:
 ## Other Languages
 - HTML
 - CSS
-- Haml
-- Sass
-- CoffeeScript
-- Jade
-- Markdown
 - Bash/Zsh
 - Alloy
 
