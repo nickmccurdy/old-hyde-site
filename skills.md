@@ -9,24 +9,48 @@ technologies:
 
 ## Programming Languages
 - Ruby
+- JavaScript
 - Java
 - Python
 - Lua
-- C (learning)
+- Haskell
+- Common Lisp
+- Prolog
+- Go
 
-## Web Languages
-- HTML 5
-- HTML 4
+## Other Languages
+- HTML
 - CSS
-- JavaScript
+- Haml
+- Sass
+- CoffeeScript
+- Jade
+- Markdown
+- Bash/Zsh
+- Alloy
 
-## Miscellaneous
-- Rails (learning)
+# Frameworks & Libraries
+- Rails
+- Sinatra
+- Jekyll
+- Node.js
+- Express
+- Bootstrap
 - jQuery
-- Twitter Bootstrap
-- Bash
+- AngularJS
+- Socket.IO
+- RSpec
+- Jasmine
 
-## Version Control Systems
+## Version Control
 - Git
 - Subversion
 - Mercurial
+
+## Miscellaneous
+- Unix/Linux
+- Vim
+- Emacs
+- MongoDB (learning)
+- Photoshop CS5
+- Functional Programming
