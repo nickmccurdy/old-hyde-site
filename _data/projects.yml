@@ -14,16 +14,6 @@
     url: https://github.com/nicolasmccurdy/run
     description: A simple command line tool for running individual files of source code.
 
-- name: Browser Extensions
-  id: browser-extensions
-  projects:
-  - name: HashMask
-    url: https://github.com/wyantb/HashMask/
-    description: A Chrome extension that enhances password fields (a collaboration with Brian Wyant and Daniel Wallach).
-  - name: Powerfox
-    url: http://userstyles.org/styles/59527/powerfox-ui-improvements-for-firefox-power-users
-    description: A simple collection of tweaks for Firefox that make it a little awesomer for power users, or just those who would like a little more out of their browser UI.
-
 - name: Web Apps
   id: web-apps
   projects:
@@ -59,6 +49,16 @@
     url: http://msaguirre.zxq.net
   - name: Dana McCurdy
     url: http://danamccurdy.com
+
+- name: Browser Extensions
+  id: browser-extensions
+  projects:
+  - name: HashMask
+    url: https://github.com/wyantb/HashMask/
+    description: A Chrome extension that enhances password fields (a collaboration with Brian Wyant and Daniel Wallach).
+  - name: Powerfox
+    url: http://userstyles.org/styles/59527/powerfox-ui-improvements-for-firefox-power-users
+    description: A simple collection of tweaks for Firefox that make it a little awesomer for power users, or just those who would like a little more out of their browser UI.
 
 - name: Miscellaneous
   id: miscellaneous
