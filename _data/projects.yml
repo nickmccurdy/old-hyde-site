@@ -1,6 +1,9 @@
 - name: Command Line Apps and Libraries
   id: command-line-apps
   projects:
+  - name: Repos
+    url: https://github.com/nicolasmccurdy/repos
+    description: A tool for finding git repositories locally.
   - name: Tracking
     url: https://github.com/nicolasmccurdy/tracking
     description: A simple and configurable command line time tracker.
