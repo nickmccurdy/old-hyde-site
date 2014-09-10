@@ -4,7 +4,7 @@ https://keybase.io/nicolasmccurdy
 
 I hereby claim:
 
-  * I am an admin of https://nicolasmccurdy.github.io
+  * I am an admin of http://nicolasmccurdy.com
   * I am nicolasmccurdy (https://keybase.io/nicolasmccurdy) on keybase.
   * I have a public key with fingerprint 4C8B DC57 022C 81CA 4902  16B7 ED40 0933 975D 96AB
 
@@ -19,42 +19,48 @@ To claim this, I am signing this object:
             "uid": "c8c3c85074029a6064bc16a4e1725b00",
             "username": "nicolasmccurdy"
         },
+        "revoke": {
+            "sig_ids": [
+                "a3fb151d1e37bff85ea896100e53be0f6beee1ca13552fa8b9cc7d2333c855420f"
+            ]
+        },
         "service": {
-            "hostname": "nicolasmccurdy.github.io",
-            "protocol": "https:"
+            "hostname": "nicolasmccurdy.com",
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1409009960,
+    "ctime": 1410321089,
     "expire_in": 157680000,
-    "prev": "5be1a47fb34416127e6150479195d0d937b9bf387e9272194c02424c81ba10d0",
-    "seqno": 18,
+    "prev": "6d9ffcbadf8f28ba36cd0b3a17e85964634e52bd69815c28c812da04774af962",
+    "seqno": 19,
     "tag": "signature"
 }
 
 with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v0.3.1
+Version: Keybase OpenPGP v1.0.2
 Comment: https://keybase.io/crypto
 
-yMHwAnicO8LLzMDFyJK2rNc24u4XxtMHWUsZgn+f1KhWSspPqVSyqlbKTgVTaZl5
-6alFBUWZeSVKVkomyRZJKcmm5gZGRskWhsmJJpYGRoZmSeapKSYGBpbGxpbmpimW
-ZolJSjpKGfnFIB1AY5ISi1P1MvOBYkBOfGYKUBSL+lKwRLJFsnGyhamBuYmBkWWi
-mYGZSVKyoVmiSaqhuZFpkoEBSGFxalFeYm4qUHVeZnJ+TmJxbnJyaRHQ1bU6SkC5
-sszkVJDLQQ7Aqk4vPbMkozQJ4qSCovySfKAsUFVGSUlBsRXIlJLKApC28tSkeKiB
-8UmZeSnAoADqKEstKs7Mz1OyMgSqTC7JBNlgaGJgCfSQpZmBjlJqRUFmUWp8JkiF
-qbmZhQEQgOxJLQMaaZqUaphoYp6WZGxiYmhmaGSeamZoamBibmloaZpikGJpbJ5k
-mZRmbGGeamlkbmRoaZJsYGRiBAx2w6REQ4MUkP+LUwvz8oFmWwDdmZgONLM4Mz0v
-saS0KFWp9tCBGBYGRi4GNlYmUGwycHEKwOKYbTL7f18lt5rIqyXzvp8+dUU4qorz
-39oFj/5J2r9032dy4rFKQOHOK9vZxG8KlNs9MP8tbWu8IZBhbrCXKo8dg9D/a6bW
-J/su/X46W7nhzeXz63Vye6OYErhf/k9J+hq/4Gz0al57g/1PWU5u+HNxl3TXNE75
-taxN7m9kZE94a6uL98psi/dmP8dwXm2VfqDzrGXHVzN+9+/1za6d/dE9Qkvi8JeF
-PEe+nqqcZrPvso1VhYD4rLkPPT/KVy12l5NU2dJXydLpNSvHZfcbsXu3N13dyzad
-/9zmA79W8smUzr7AdFMxKmPlOtVVa16EHb0RYWG19bpUQ2sOv/zkn/F7ue492Tu1
-5UXGLOmbl5jk/qllMQIA7d0XCw==
-=mAfe
+yMIpAnicbVJbSFRBGF7bzFoKJRWsHqIxlMrWOfdzNvShfCnMMuxiltvMnDnrUfec
+7eyupmE9dKNIA7vQ5cVQQskoSoKQSEXKyrQog6ILWhTdHrqBFVRzpN6cl2H+//u/
+7/v/+ftneT2+hKnGuca8Tc+/Jdzt3Rz3lCTf6d0JsK3XgcBOUEUnLsO0QtSJOKYV
+AwEgEhXrRFIgzxOVI0jUIM/JWKG6CKEmCJoi6ZqMMMgBFXbUrWA0GEWp37RZjD2C
+ps6ik+DjEwmiEoGoElREyGtIhrKICScjkXIKL2EIXWCUOhYKU4a2TGJXo2iYkLjD
+XDfkAIfW2FXUNR41Q0wrCgJlAAkG5iRO56igYMNQJYpUTeYgpJKAKTRkTCll3XCC
+JPEGUrFGiKLzguBakUQeGmAr42a6NSaZIHebm9SDn9hh5jHi2DGbxVm+IhaLBFxr
+sbqIi6+lOPiPKYhNS2fzZQU11ImatgUCHEOSmOlScyIHBZ6DqpYD6I6I6dCg6SIk
+RVYhO64MrWGUsq4ZBsFIN1SDVzESZKJDLCBOoaqkyaIsiFTisS5rKicRXmVfx+sI
+iooiIkOTeeD2tt2yGTeTiqEQ42Tjs1As7lDQ0NezZaonweeZljjFXRGPb0bK/8WZ
+05v0p/B2+9sHz96jNqsj+PvVvNQhPHOkwFNc8rr6UG3ueJdxOFSYmr997/QFa+vT
+7qeMfB63+0YbM940Na/w7uq7mXv22MnySwViYlx69qXpVs/3r9lDRd7Wscz65tWo
+8nLal2WJi2cPDnTe/VlxvrXcfPrh2tCZSyc2tKQM9OxeSktXhff51FGhPrc0s71o
+3c/T4OP8Tzdbr2cNL1yUrhx4eDTkLyp7seTHwfyOpuTmtiy458iVw2vG+zK9HekL
+RwZXZncm7R9r6r6A4htT29v7r2x7efzx9/XTYMp43a9hhbYAEEi7mvFUO5Qefneq
+K6+081HlvfyLc2V9ufJkoFu9UZz2y/8XlHQy6w==
+=vuaQ
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
