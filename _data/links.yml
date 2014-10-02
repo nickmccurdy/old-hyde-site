@@ -1,7 +1,3 @@
-- name: CV
-  url: http://careers.stackoverflow.com/nicolasmccurdy
-  icon: suitcase
-
 - name: Email
   url: mailto:thenickperson@gmail.com
   icon: envelope
@@ -17,3 +13,7 @@
 - name: GitHub
   url: https://github.com/nicolasmccurdy
   icon: github-square
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/nicolasmccurdy
+  icon: linkedin
