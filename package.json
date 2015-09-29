@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "csslint": "csslint public/css/custom.css --quiet",
+    "test": "npm run csslint"
+  },
+  "dependencies": {
+    "csslint": "^0.10.0"
+  }
+}

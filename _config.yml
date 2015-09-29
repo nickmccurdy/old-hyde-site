@@ -15,7 +15,7 @@ author:
 
 # Custom vars
 version:          2.1.0
-exclude:          ['Makefile', 'blog']
+exclude:          ['package.json', 'blog']
 paginate_path:    "blog/page:num"
 
 github:
