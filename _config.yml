@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Nicolas McCurdy
 url:              http://nicolasmccurdy.com
-baseurl:          /
+baseurl:          /old-hyde-site/
 
 author:
   name:           Nicolas McCurdy
